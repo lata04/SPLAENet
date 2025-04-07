@@ -1,6 +1,6 @@
 # SPLAENet
 
-**"Emotion-aware Dual Cross-Attentive Neural Network with Label Fusion for Stance Detection in Misinformative Social Media Content"**
+**Emotion-aware Dual Cross-Attentive Neural Network with Label Fusion for Stance Detection in Misinformative Social Media Content**
 
 ## 📄 Paper Abstract
 Our paper proposes a novel approach to stance detection that incorporates emotion-aware dual cross-attention and label-aware fusion mechanisms. This model is designed specifically to handle misinformative content prevalent on social media platforms by leveraging both contextual and emotional signals from user-generated content.
