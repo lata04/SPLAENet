@@ -34,6 +34,3 @@ SPLAENet incorporates:
 
 ---
 
-## 📌 Citation
-
-(link to be added after publication).
