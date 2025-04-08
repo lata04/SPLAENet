@@ -4,7 +4,7 @@
 
 ## 📄 Paper Abstract
 Our paper proposes a novel approach to stance detection that incorporates emotion-aware dual cross-attention and label-aware fusion mechanisms. This model is designed specifically to handle misinformative content prevalent on social media platforms by leveraging both contextual and emotional signals from user-generated content.
-![Alt Text](SPLAENet-flowchart.png)
+![Alt Text](main/SPLAENet-flowchart.png)
 ---
 
 ## 📚 Datasets Used
